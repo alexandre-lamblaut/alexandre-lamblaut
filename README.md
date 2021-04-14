@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @alexandre-lamblaut
-- 👀 I’m interested in Web Development and Video Games
+- 👋 Hi, I’m Alexandre Lamblaut
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me alexandre.lamblaut
